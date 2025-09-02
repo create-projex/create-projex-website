@@ -114,11 +114,11 @@ The website can be deployed to any static hosting service:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the main project's [LICENSE](../LICENSE) file for details.
+This project is licensed under the MIT License - see the main project's [LICENSE](https://github.com/create-projex/create-projex/blob/master/LICENSE) file for details.
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please see the main project's [CONTRIBUTING.md](../CONTRIBUTING.md) for guidelines.
+Contributions are welcome! Please see the main project's [CONTRIBUTING.md](https://github.com/create-projex/create-projex/blob/master/CONTRIBUTING.md) for guidelines.
 
 ---
 
