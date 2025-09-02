@@ -1,10 +1,10 @@
 # create-projex Website
 
-This is the official website for [create-projex](https://github.com/chhedadhruv/create-projex) - a blazing-fast CLI tool to scaffold modern web projects.
+This is the official website for [create-projex](https://github.com/create-projex/create-projex) - a blazing-fast CLI tool to scaffold modern web projects.
 
 ## 🌐 Live Site
 
-Visit the website at: [create-projex.dev](https://create-projex.dev) *(coming soon)*
+Visit the website at: [create-projex.com](https://create-projex.com)
 
 ## 🚀 Built With
 
